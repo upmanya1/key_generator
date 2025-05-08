@@ -1,0 +1,6 @@
+langchain_google_genai
+pandas
+python-dotenv
+requests
+beautifulsoup4
+langchain-core
