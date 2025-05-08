@@ -1,4 +1,3 @@
-```markdown
 # AI-Powered SEO Keyword Generator
 
 Generates targeted Google Ads keywords from website content using Google Gemini AI. Analyzes crawled website data to produce high-conversion keyword suggestions with source URL tracking.
@@ -89,4 +88,3 @@ affordable website design services,https://example.com/services
    → CSV must be UTF-8 encoded  
    → Minimum 50 characters per page text  
 
-```
