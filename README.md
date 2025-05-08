@@ -89,6 +89,4 @@ affordable website design services,https://example.com/services
    → CSV must be UTF-8 encoded  
    → Minimum 50 characters per page text  
 
-## 📜 License  
-MIT License - See [LICENSE](LICENSE) for details
 ```
